@@ -43,6 +43,7 @@ const Offers = () => {
               <a href="/" className="shangrilla-btn">View Details</a>
            </div>
         </div>
+        <p className='text-center'><a href="/" className='all'>View All</a></p>
      </div>
      );
 }

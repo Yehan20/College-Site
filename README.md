@@ -21,7 +21,7 @@ Started Day - Friday ,
 Finished Day - Saturday
 
 
-Solution URL 
+Solution URL - https://front-end-assesment-solution.netlify.app/
 
 Name - L.D Yehan Nilanga Kulasekara
 Mobile - 0702883965

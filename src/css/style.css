@@ -206,7 +206,7 @@ nav.main-nav ul a {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 600;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
 }
 /* nav.main-nav ul li:hover ul.split{
     display: flex;
@@ -240,7 +240,7 @@ nav .split .list-split a:hover{
 nav.main-nav ul li:hover .split{
     display: flex;
     justify-content: flex-start;
-    column-gap: 6em;
+    column-gap: 5em;
     flex-wrap: wrap;
    
 }
@@ -523,6 +523,9 @@ nav.main-nav ul li:hover .split{
     background-position:570px center;
     background-size: 12px;
      
+}
+.section-1 select:focus{
+    outline: none;
 }
 .section-1 .destination{
     display: flex;

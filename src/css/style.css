@@ -745,6 +745,14 @@ nav.main-nav ul li:hover .split{
     text-decoration: none;
     opacity: 0.8;
 }
+.section-3 .all{
+    color: var(--gold-clr);
+    font-family: var(--header-font);
+    font-weight: 500;
+}
+.section-3 .all:hover{
+    text-decoration: underline;
+}
 /* shangrilla offers end */
 
 /* footer  */
